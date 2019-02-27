@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    background-image: url("../img/Frank@2x.png");
+  
+    /* Full height */
+    height: 100%;
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  div {
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  .quote1 h3 {
+    padding-top: 200px;
+    width: 400px;
+    height: 500px;
+  }
+
+  .quote2 h3 {
+    padding-top: 50px;
+    width: 400px;
+    height: 500px;
+    margin-left: 700px;
+  }
+
+  .form-inline {
+    margin-left: 940px;
+    margin-top: -1065px;
+    
+  }
+
+.btn-danger {
+    margin-left: 1170px;
+    margin-top: -500px;
+}
