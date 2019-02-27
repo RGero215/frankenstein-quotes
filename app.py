@@ -4,6 +4,7 @@ import quotes
 from flask import (Flask, render_template, redirect, 
                     url_for, make_response, flash, request)
 from histogram_dictionary import *
+import markov_chain
 
 app = Flask(__name__)
 
